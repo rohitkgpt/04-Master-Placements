@@ -2,7 +2,10 @@
 Contains all essential resources to be covered during Placements
 
 01) Machine Learning Interview Questions - 
-https://www.youtube.com/watch?v=yA_Vtygj5FA&list=PLKnIA16_Rmva_ZdY31wpEICG0KHnvIhu2
+   a) https://www.youtube.com/watch?v=yA_Vtygj5FA&list=PLKnIA16_Rmva_ZdY31wpEICG0KHnvIhu2 
+
+   b) https://huyenchip.com/ml-interviews-book/
+
 
 02) Data Science Interview Preparation - 
 https://www.youtube.com/watch?v=ZcYVdmL8pzI&list=PLKnIA16_RmvZTD2oti9S1jDTX7xTC7PSO&index=2
